@@ -66,3 +66,4 @@ python import numpy as np L=[int(i) for i in input().split()] N=len(L); M=max(L)
 Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
+
