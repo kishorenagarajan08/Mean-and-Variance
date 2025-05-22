@@ -1,4 +1,4 @@
-#Exp1:Mean and variance of a discrete  distribution
+Exp1:Mean and variance of a discrete  distribution
 
 NAME:ABIRAMI A
 
