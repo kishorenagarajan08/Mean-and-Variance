@@ -1,4 +1,5 @@
 #Exp1:Mean and variance of a discrete  distribution
+
 NAME:ABIRAMI A
 REGISTER NO:212224040010
 
