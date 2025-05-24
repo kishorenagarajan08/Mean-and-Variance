@@ -1,8 +1,8 @@
 Exp1:Mean and variance of a discrete  distribution
 
-NAME:ABIRAMI A
+NAME:KISHORE N
 
-REGISTER NO:212224040010
+REGISTER NO:212223230106
 
 # Aim : 
 
